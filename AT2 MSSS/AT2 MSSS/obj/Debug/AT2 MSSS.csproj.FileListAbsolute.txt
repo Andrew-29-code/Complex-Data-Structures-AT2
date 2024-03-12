@@ -1,0 +1,10 @@
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\bin\Debug\AT2 MSSS.exe.config
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\bin\Debug\AT2 MSSS.exe
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\bin\Debug\AT2 MSSS.pdb
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2 MSSS.csproj.AssemblyReference.cache
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2_MSSS.Form1.resources
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2_MSSS.Properties.Resources.resources
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2 MSSS.csproj.GenerateResource.cache
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2 MSSS.csproj.CoreCompileInputs.cache
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2 MSSS.exe
+D:\Schooling\Courses\Backups of Moduels (Diploma Programming)\Cluster - Complex Data Structures\Assessments\AT2\AT2 MSSS\AT2 MSSS\obj\Debug\AT2 MSSS.pdb
